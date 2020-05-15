@@ -7,6 +7,8 @@ if ($usuario === "Alberto" && $password === 123) {
 } else {
     echo "Acceso denegado";
 }
+
+
 print("</br>");
 print("<h3>Operador Ternario</h3>");
 
